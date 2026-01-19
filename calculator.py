@@ -9,3 +9,5 @@ def subtract(a, b):
 
 print(add(5, 3))
 print(subtract(5, 2))
+
+print("=== Calculator Output ===")
